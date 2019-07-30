@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/formula-one-stats/static/css/main.05e7f65a.chunk.css",
+    "main.js": "/formula-one-stats/static/js/main.a7c61d97.chunk.js",
+    "main.js.map": "/formula-one-stats/static/js/main.a7c61d97.chunk.js.map",
+    "runtime~main.js": "/formula-one-stats/static/js/runtime~main.12de9516.js",
+    "runtime~main.js.map": "/formula-one-stats/static/js/runtime~main.12de9516.js.map",
+    "static/js/2.7e675ef3.chunk.js": "/formula-one-stats/static/js/2.7e675ef3.chunk.js",
+    "static/js/2.7e675ef3.chunk.js.map": "/formula-one-stats/static/js/2.7e675ef3.chunk.js.map",
+    "index.html": "/formula-one-stats/index.html",
+    "precache-manifest.b8cb224a1702a0ce6017340aa1f9f608.js": "/formula-one-stats/precache-manifest.b8cb224a1702a0ce6017340aa1f9f608.js",
+    "service-worker.js": "/formula-one-stats/service-worker.js",
+    "static/css/main.05e7f65a.chunk.css.map": "/formula-one-stats/static/css/main.05e7f65a.chunk.css.map"
+  }
+}
