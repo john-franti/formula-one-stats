@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e98f72154c439db4d48a6b910f229a1a",
+    "revision": "1e2794d1f485ffe8a20ccdf280f6a922",
     "url": "/formula-one-stats/index.html"
   },
   {
-    "revision": "ef5b904c05796afb2678",
+    "revision": "dc56b7f56c7100dacacd",
     "url": "/formula-one-stats/static/css/main.05e7f65a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/formula-one-stats/static/js/2.7e675ef3.chunk.js"
   },
   {
-    "revision": "ef5b904c05796afb2678",
-    "url": "/formula-one-stats/static/js/main.a7c61d97.chunk.js"
+    "revision": "dc56b7f56c7100dacacd",
+    "url": "/formula-one-stats/static/js/main.6610c0c8.chunk.js"
   },
   {
     "revision": "58112e5e39ab2ca4fbbe",
